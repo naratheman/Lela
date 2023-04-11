@@ -3,8 +3,9 @@ This is my repo for a Pill Reminder app that I am developing, named after someon
 
 Project start: 4th April 2023 
 
-Project End: TBA
+Project End: TBA (Currently working)
 
 Project Language: SwiftUI
 
 This project is a project for me to deep dive into the world of SwiftUI. 
+
